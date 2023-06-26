@@ -4,4 +4,4 @@
 it contains both the front and back_end
 
 front_end: react
-backe_end: express.js
+back_end: express.js
